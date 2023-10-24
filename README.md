@@ -20,7 +20,7 @@ There is a favorites screen that shows the products that the user has liked .
 
 Finally, the settings screen shows the user's information, he can edit his profile , and he can log out.
 
-# For developers ... 
+## For developers ... 
 
 this projct seperated like this : 
 - layout ( for home screen )
